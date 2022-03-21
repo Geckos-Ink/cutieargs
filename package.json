@@ -1,0 +1,26 @@
+{
+  "name": "cutieargs",
+  "version": "0.1.0",
+  "description": "Damn simple arguments manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geckos-Ink/cutieargs.git"
+  },
+  "keywords": [
+    "args",
+    "arguments",
+    "manager",
+    "handler",
+    "descriptor"
+  ],
+  "author": "Gecko's Ink <geckos.ink>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Geckos-Ink/cutieargs/issues"
+  },
+  "homepage": "https://github.com/Geckos-Ink/cutieargs#readme"
+}
